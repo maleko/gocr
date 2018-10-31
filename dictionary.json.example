@@ -1,0 +1,17 @@
+{ 
+    "base_folder": "/baseFolder/",
+    "matches": [
+        {
+            "short_word": "Gas Provider Name",
+            "folder": "Gas/"
+        },
+        {
+            "short_word": "Garage Name",
+            "folder": "Automobile/"
+        },
+        {
+            "short_word": "Dental Clinic",
+            "folder": "health/" 
+        }
+    ]
+}
